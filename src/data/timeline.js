@@ -5,7 +5,7 @@ export default [
     institution: 'OpenSearch - AWS',
     duration: '1 mos',
     details:
-      'Contributor in the OpenSearch, an open source, community-driven fork of Elasticsearch and Kibana. Currently working on the OS Dashboards and Documentation projects, learning about the codebase and contributing to it.',
+      'Contributor in the OpenSearch, an open source, community-driven library for data-intensive solutions. Currently working on the OpenSearch-Dashboards and Documentation projects, learning about the codebase and contributing to it.',
   },
   {
     year: 'Today',
