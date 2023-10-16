@@ -23,14 +23,14 @@ const Intro = () => {
           Samuel Valdes Gutierrez
         </h1>
         <p className="text-base md:text-xl mb-3 font-medium">
-          Software Engineer | Full-Stack Developer | AI & Blockchain Enthusiast
+          Software Engineer | Full-Stack Developer | Data & AI Enthusiast | Tech Education
         </p>
         <p className="text-sm max-w-xl mb-3 font-bold">
           Engineer with 6+ years of experience in Finance and Hardware
           solutions, concluding a career shift into Software Engineering. Avid
           learner and self-disciplined with solid communication skills. Looking
           for entry-level positions in high-performant Software Engineering
-          teams, preferably working with Full-Stack technologies. 
+          teams, preferably working with Full-Stack technologies.
         </p>
 
         <div className="flex flex-col md:flex-row items-center md:gap-x-1">

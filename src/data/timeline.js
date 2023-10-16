@@ -1,11 +1,27 @@
 export default [
   {
     year: 'Today',
-    title: 'Teaching Assistant',
-    institution: 'Coding Dojo',
-    duration: '1 yr 8 mos',
+    title: 'Contributor Apprenticeship',
+    institution: 'OpenSearch - AWS',
+    duration: '1 mos',
     details:
-      'As a TA, I tutored 100+ students, helping them transition into full-stack development. I supported their learning in Python, Java, and MERN stack, ensuring their success.',
+      'Contributor in the OpenSearch, an open source, community-driven fork of Elasticsearch and Kibana. Currently working on the OS Dashboards and Documentation projects, learning about the codebase and contributing to it.',
+  },
+  {
+    year: 'Today',
+    title: 'Lead Instructor',
+    institution: 'Coding Dojo LATAM',
+    duration: '6 mos',
+    details:
+      'Delivering comprehensive intensive courses on Web Fundamentals (HTML, CSS, JS) and MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) technologies to students with no or minimal knowledge in full-stack development.',
+  },
+  {
+    year: '2021',
+    title: 'Assistant Instructor',
+    institution: 'Coding Dojo',
+    duration: '1 yr 9 mos',
+    details:
+      'As a Assistant Instructor, I tutored 100+ students, helping them transition into full-stack development. I supported their learning in Python/Flask, Java/Spring Boot, and MERN stacks, ensuring their success.',
   },
   {
     year: '2022',
