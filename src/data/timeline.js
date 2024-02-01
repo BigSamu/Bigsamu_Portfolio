@@ -1,11 +1,11 @@
 export default [
   {
     year: "Today",
-    title: "Contributor Apprentice",
+    title: "Contributor",
     institution: "OpenSearch - AWS",
     duration: "1 mos",
     details:
-      "Contributor of OpenSearch library, an AWS open-source tool for data-intensive solutions. focusing on improving code for OpenSearch Dashboards, UI Framework, and Documentation projects. Appretienship part of the OSCI Initiative Program.",
+      "Contributor of OpenSearch library, an AWS open-source tool for data-intensive solutions. focusing on improving code for OpenSearch Dashboards, UI Framework, and Documentation projects.",
   },
   {
     year: "Today",
