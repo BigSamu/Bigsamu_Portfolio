@@ -1,11 +1,11 @@
 export default [
   {
     year: "Today",
-    title: "Software Engineer",
+    title: "Software Engineer - Open-Source Contributor",
     institution: "OpenSearch - AWS",
     duration: "6 mos",
     details:
-      "Nowdays, I am an open-Source contributor in OpenSearch Project, an AWS open-source tool for data-intensive solutions. Currently I am bringing support on libraries for OpenSearch Dashboards, UI Framework, and Documentation projects.",
+      "Currently, I work as a dedicated open-source contributor at the OpenSearch project, an AWS open-source tool designed for data-intensive solutions. My role involves substantial support in developing libraries for OpenSearch Dashboards, UI Framework, and Documentation. I focus on enhancing open-source tools to facilitate scalable and efficient data management.",
   },
   {
     year: "2023",
