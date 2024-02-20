@@ -1,5 +1,23 @@
 export default [
   {
+    title: "OpenSearch Changelog Workflow and Release Notes Process",
+    imgUrl: "/assets/projects/567_bakery.png",
+    stack: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Sass",
+      "JQuery",
+      "Swiper",
+    ],
+    repo: "https://github.com/BigSamu/567_Bakery",
+    demo: "https://bigsamu.github.io/567_Bakery/",
+    details:
+      "My first end-to-end project! A simple vanilla website for a local bakery in my hometown. Implement all learnings from my Bootcamp at Coding Dojo, including external libraries such as Bootstrap, Saas, JQuery and Swipper.",
+    type: "Online Bootcamp - Final Project (2020)",
+  },
+  {
     title: "Macaroons Demo",
     imgUrl: "/assets/projects/macaroons_demo.png",
     stack: ["HTML", "JavaScript", "Python", "NextJS", "FastAPI", "Bootstrap"],
@@ -48,23 +66,5 @@ export default [
     details:
       "Web Application solution for clarifying ML overfitting concept to students from Imperial College Business School. Project as part of a group assignment from MSc CS degree, being in charge of the development of the frontend side of the application.",
     type: "MSc CS degree - Group Project (2021)",
-  },
-  {
-    title: "567 Bakery",
-    imgUrl: "/assets/projects/567_bakery.png",
-    stack: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap",
-      "Sass",
-      "JQuery",
-      "Swiper",
-    ],
-    repo: "https://github.com/BigSamu/567_Bakery",
-    demo: "https://bigsamu.github.io/567_Bakery/",
-    details:
-      "My first end-to-end project! A simple vanilla website for a local bakery in my hometown. Implement all learnings from my Bootcamp at Coding Dojo, including external libraries such as Bootstrap, Saas, JQuery and Swipper.",
-    type: "Online Bootcamp - Final Project (2020)",
-  },
+  }
 ];
