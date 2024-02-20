@@ -7,7 +7,7 @@ export default [
       "NodeJS",
       "ExpressJS",
       "Jest",
-      "GitHub Actions",
+      "Github Actions",
       "Github Apps"
     ],
     repo: "https://github.com/BigSamu/OpenSearch_Changelog_Workflow",
