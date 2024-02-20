@@ -1,21 +1,19 @@
 export default [
   {
     title: "OpenSearch Changelog Workflow and Release Notes Process",
-    imgUrl: "/assets/projects/567_bakery.png",
+    imgUrl: "/assets/projects/opensearch-changelog-bot.png",
     stack: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap",
-      "Sass",
-      "JQuery",
-      "Swiper",
+      "Javascript",
+      "NodeJS",
+      "ExpressJS",
+      "Jest",
+      "GitHub Actions",
+      "Github Apps"
     ],
-    repo: "https://github.com/BigSamu/567_Bakery",
-    demo: "https://bigsamu.github.io/567_Bakery/",
+    repo: "https://github.com/BigSamu/OpenSearch_Changelog_Workflow",
     details:
-      "My first end-to-end project! A simple vanilla website for a local bakery in my hometown. Implement all learnings from my Bootcamp at Coding Dojo, including external libraries such as Bootstrap, Saas, JQuery and Swipper.",
-    type: "Online Bootcamp - Final Project (2020)",
+      "An automated workflow for generating changelogs and release notes for OpenSearch projects. The project is powered by GitHub Actions and uses a custom bots to speed up automation process.",
+    type: "OpenSearch Project - OSCI Initiative",
   },
   {
     title: "Macaroons Demo",
