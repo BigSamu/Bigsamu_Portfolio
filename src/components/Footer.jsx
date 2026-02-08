@@ -19,11 +19,6 @@ const Footer = () => {
                   <FaLinkedin className="text-3xl text-white" />
                 </a>
               </li>
-              <li>
-                <a href="https://www.hackerrank.com/bigsamu" target="_blank" rel="noopener noreferrer" aria-label="HackerRank">
-                  <FaHackerrank className="text-3xl text-white" />
-                </a>
-              </li>
             </ul>
           </div>
           <div>
