@@ -91,14 +91,6 @@ const Intro = () => {
           >
             <FaLinkedin />
           </a>
-          <a
-            href="https://www.hackerrank.com/BigSamu"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-4xl"
-          >
-            <FaHackerrank />
-          </a>
         </div>
 
         <div className="mt-3">
