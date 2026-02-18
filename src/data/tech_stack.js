@@ -8,5 +8,5 @@ export default {
     'FastAPI',
     'TailwindCSS',
     'MaterialUI',
-    'MySQL',
+    'MySQL'
 };
