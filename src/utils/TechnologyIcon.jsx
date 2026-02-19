@@ -43,12 +43,12 @@ export const getTechnologyIcon = (technology) => {
       <>
         <img
           src="https://tanstack.com/images/logos/logo-black.svg"
-          className="block dark:hidden w-6 h-6"
+          className="block dark:hidden w-3.5 h-3.5"
           alt="TanStack logo"
         />
         <img
           src="https://tanstack.com/images/logos/logo-white.svg"
-          className="hidden dark:block w-6 h-6"
+          className="hidden dark:block w-3.5 h-3.5"
           alt="TanStack logo"
         />
       </>
