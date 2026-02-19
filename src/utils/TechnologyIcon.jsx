@@ -39,7 +39,7 @@ export const getTechnologyIcon = (technology) => {
     'Next': <SiNextdotjs />,
     'Express': <SiExpress />,
     'FastAPI': <SiFastapi />,
-    'Tanastack': <img src="https://tanstack.com/images/logos/logo-black.svg"/>,
+    'Tanastack': <img src="https://tanstack.com/images/logos/logo-black.svg" width="14" height="14"/>,
 
     // Testing
     'Jest': <SiJest />,
