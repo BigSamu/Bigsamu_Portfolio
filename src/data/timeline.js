@@ -1,11 +1,19 @@
 export default [
   {
     year: "Today",
+    title: "Staff Software Engineer - Synopys",
+    institution: "OpenSearch Project - AWS",
+    duration: "~ 2 yr",
+    details:
+     "Currently, I lead the development of a scalable UI (React + TypeScript) for new Check-In Manager platform and contribute on related FastAPI microservices by delivering features, expanding test coverage, and enforcing clean architecture. Also, I mentor engineers, drive code quality, establish reusable backend standards, and improve onboarding through clear documentation.",
+  },
+  {
+    year: "2023",
     title: "Software Engineer - Open-Source Contributor",
     institution: "OpenSearch Project - AWS",
-    duration: "6 mos",
+    duration: "9 mos",
     details:
-      "Currently, I work as a dedicated open-source contributor at the OpenSearch Project, an AWS open-source tool designed for data-intensive solutions. My role involves substantial support in developing libraries for OpenSearch Dashboards, UI Framework, and Documentation. I focus on enhancing open-source tools to facilitate scalable and efficient data management.",
+      "Worked as a dedicated open-source contributor at the OpenSearch Project, an AWS open-source tool designed for data-intensive solutions. My role involved substantial support in developing libraries for OpenSearch Dashboards, UI Framework, and Documentation. I focused on enhancing open-source tools to facilitate scalable and efficient data management.",
   },
   {
     year: "2023",
