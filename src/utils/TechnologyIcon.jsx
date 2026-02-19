@@ -38,14 +38,8 @@ export const getTechnologyIcon = (technology) => {
     'Tailwind': <SiTailwindcss />,
     'Next': <SiNextdotjs />,
     'Express': <SiExpress />,
-    'Spring Boot Suite': <SiSpring />,
     'FastAPI': <SiFastapi />,
-    'Django': <DiDjango />,
-    'Flask': <SiFlask />,
-    'Sinatra': <SiRubysinatra />,
-    'Redux': <SiRedux />,
-    'JQuery': <SiJquery />,
-    'Swiper': <SiSwiper/>,
+    'Tanastack': <img src="https://tanstack.com/images/logos/logo-black.svg"/>,
 
     // Testing
     'Jest': <SiJest />,
