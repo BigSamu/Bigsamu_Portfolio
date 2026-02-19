@@ -1,8 +1,8 @@
 export default [
   {
     year: "Today",
-    title: "Staff Software Engineer - Synopys",
-    institution: "OpenSearch Project - AWS",
+    title: "Staff Software Engineer",
+    institution: "Synopsys - DevTools Team",
     duration: "~ 2 yr",
     details:
      "Currently, I lead the development of a scalable UI (React + TypeScript) for new Check-In Manager platform and contribute on related FastAPI microservices by delivering features, expanding test coverage, and enforcing clean architecture. Also, I mentor engineers, drive code quality, establish reusable backend standards, and improve onboarding through clear documentation.",
