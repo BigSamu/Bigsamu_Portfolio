@@ -1,13 +1,16 @@
 export default {
   preferred: [
+    'Javascript',
     'Typescript',
     'Python',
-    'ReactJS',
-    'NextJS',
-    'ViteJS',
+    'React',
+    'Next',
+    'Vite',
+    'Tanastack',
     'FastAPI',
-    'TailwindCSS',
-    'MaterialUI',
-    'MySQL'
+    'Tailwind',
+    'MUI',
+    'MySQL',
+    'MongoDB',
   ]
 };
